@@ -1,7 +1,7 @@
 body {
     background-color:cornsilk;
     color: black;
-    border: 150px;
+    border: 2px black-dashed;
     margin:40px;
     padding: 24px;
 }
